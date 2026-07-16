@@ -63,6 +63,6 @@ pyinstaller -F -w --uac-admin --name LogAnalyzer main.py
 
 ## 📸 界面预览
 
-![主界面截图](屏幕截图1.png)
-![主界面截图](屏幕截图2.png)
+![主界面截图](1.png)
+![主界面截图](2.png)
 
